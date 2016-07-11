@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[eisaiah]]></title>
+        <description><![CDATA[eisaiah]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 11 Jul 2016 17:53:09 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Habit is tech]]></title>
+            <description><![CDATA[<article><h1>Habit is tech</h1><p>In 2010, I started a company that forever impacted how I approach product marketing. The company sold data, specifically sales prospecting lists for B2B marketing technology companies. Instead of simply delivering CSV files, our data was packaged in a web app that customers could use to interact with the data.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/7fd8c1bd09ca7bdee59ab9a0eae105d6/noop.jpg?input=https%3A%2F%2Fi1.wp.com%2Fengeljournal.files.wordpress.com%2F2016%2F07%2F3116650631_6c365aec34_o.jpg%3Ffit%3D440%252C330%26ssl%3D1"></article>]]></description>
+            <link>https://engeljournal.wordpress.com/2016/07/10/habit-is-tech/</link>
+            <guid isPermaLink="false">a94cc21e-80cc-4886-8673-d6ec54636e53</guid>
+            <pubDate>Mon, 11 Jul 2016 17:53:07 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
