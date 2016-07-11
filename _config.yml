@@ -6,9 +6,9 @@ color:
   saturation: 0.7873370663728565
   rhythmicContrast: 0.5706339790485799
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#000000'
+    - '#333333'
+    - '#FF358B'
+    - '#01B0F0'
+    - '#AEEE00'
 name: eisaiah
