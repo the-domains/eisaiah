@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[eisaiah]]></title>
         <description><![CDATA[eisaiah]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/eisaiah/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 11 Jul 2016 17:53:09 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 24 Jul 2016 21:54:13 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/eisaiah/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Review for Discount Tire Store]]></title>
+            <description><![CDATA[<article><h1>Review for Discount Tire Store</h1><p>This place has great prices and great service. My experience has been that they provide a transparent sales process. When you buy your tires here, you get free air checks and free alignments. It is really a good deal. They are a big and trusted company. I used them in CA. And now I use them in TX.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6fdc58ae-e3f3-4ba0-ae21-905a4cc214cc.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/6fdc58ae-e3f3-4ba0-ae21-905a4cc214cc.jpg</link>
+            <guid isPermaLink="false">bfa1882b-1322-48ac-929a-5954cbaf4ddc</guid>
+            <pubDate>Sun, 24 Jul 2016 21:53:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Habit is tech]]></title>
             <description><![CDATA[<article><h1>Habit is tech</h1><p>In 2010, I started a company that forever impacted how I approach product marketing. The company sold data, specifically sales prospecting lists for B2B marketing technology companies. Instead of simply delivering CSV files, our data was packaged in a web app that customers could use to interact with the data.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/7fd8c1bd09ca7bdee59ab9a0eae105d6/noop.jpg?input=https%3A%2F%2Fi1.wp.com%2Fengeljournal.files.wordpress.com%2F2016%2F07%2F3116650631_6c365aec34_o.jpg%3Ffit%3D440%252C330%26ssl%3D1"></article>]]></description>
